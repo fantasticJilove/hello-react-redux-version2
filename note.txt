@@ -1,0 +1,6 @@
+Notice that in the above example, we used:
+
+- import RaisedButton from 'material-ui/RaisedButton';
+instead of
+
+- import {RaisedButton} from 'material-ui';
